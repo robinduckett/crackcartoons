@@ -1,0 +1,48 @@
+a:link {color:#777777;}
+a:visited {color:#ff00ff;}
+a:hover {color:#00a9ec;}
+a:active {color:#00a9ec;}
+.Wp-Body-P
+{
+    margin:0.0px 0.0px 12.0px 0.0px; text-align:left; font-weight:400;
+}
+.Wp-Body-1-P
+{
+    margin:0.0px 0.0px 0.0px 0.0px; text-align:justify; font-weight:400;
+}
+a.Wp-Body-1-P-H:link {color:#ffffff;}
+a.Wp-Body-1-P-H:visited {color:#ffffff;}
+a.Wp-Body-1-P-H:hover {color:#ffffff;}
+a.Wp-Body-1-P-H:active {color:#ffffff;}
+.Wp-Normal-P
+{
+    margin:0.0px 0.0px 0.0px 0.0px; text-align:left; font-weight:400;
+}
+.Wp-Standard-P
+{
+    margin:0.0px 0.0px 0.0px 0.0px; text-align:left; font-weight:400;
+}
+.Wp-Table-Contents-P
+{
+    margin:0.0px 0.0px 0.0px 0.0px; text-align:left; font-weight:400;
+}
+.Wp-Table-Contents2-P
+{
+    margin:0.0px 0.0px 0.0px 0.0px; text-align:left; font-weight:400;
+}
+.Wp-Text-body-P
+{
+    margin:0.0px 0.0px 9.0px 0.0px; text-align:left; font-weight:400;
+}
+.Wp-Default-Paragraph-Font-C
+{
+    font-family:"Verdana", sans-serif;
+}
+.Wp-Emphasis-C
+{
+    font-family:"Verdana", sans-serif; font-style:italic;
+}
+.Wp-Placeholder-C
+{
+    font-family:"Verdana", sans-serif;
+}
